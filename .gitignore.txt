@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# macOS metadata (root & subfolders)
+**/.DS_Store
+
+# macOS thumbnails
+._*
